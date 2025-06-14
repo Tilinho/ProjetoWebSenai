@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  background-color: rgb(151, 151, 151);
+  background-color: rgb(189, 72, 72);
   padding: 30px;
   border-radius: 10px;
   max-width: 600px;
@@ -30,13 +30,4 @@ button {
 
 button:hover {
   background-color: #004c99;
-}
-
-.animated-button {
-  /* Suaviza a transição da cor de fundo e do texto */
-  transition: background-color 1s ease, color 1s ease;
-  padding: 10px 15px; /* Apenas para melhorar a aparência */
-  border-radius: 5px; /* Apenas para melhorar a aparência */
-  border: none;       /* Apenas para melhorar a aparência */
-  cursor: pointer;
 }
